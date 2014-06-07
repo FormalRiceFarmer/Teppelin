@@ -1,0 +1,30 @@
+timestamps:
+  login: 1384066747144
+  logout: 1384066977944
+  lastteleport: 1384065230643
+ipAddress: 96.229.225.156
+lastlocation:
+  world: Midgard
+  x: -1848.401462684091
+  y: 71.0
+  z: -752.424279306221
+  yaw: -91.953705
+  pitch: 7.761471
+logoutlocation:
+  world: Midgard
+  x: -1804.7259078579584
+  y: 71.0
+  z: -800.0615560617412
+  yaw: -232.29405
+  pitch: 7.8780394
+money: '0.0'
+afk: false
+nickname: Drex
+homes:
+  home:
+    world: Midgard
+    x: -1808.3847915978224
+    y: 69.0
+    z: -735.2500606689637
+    yaw: -18.03543
+    pitch: 11.915735

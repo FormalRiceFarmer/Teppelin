@@ -1,0 +1,21 @@
+timestamps:
+  login: 1384626878535
+  lastteleport: 1384563255122
+  logout: 1384626892975
+ipAddress: 96.229.225.156
+lastlocation:
+  world: Midgard
+  x: 162.67644241156572
+  y: 74.0
+  z: 1722.985550751732
+  yaw: 28.542236
+  pitch: 21.717594
+logoutlocation:
+  world: Midgard
+  x: -1800.6150779144316
+  y: 69.0
+  z: -765.8906544117013
+  yaw: 0.57897043
+  pitch: -1.5455961
+nickname: Sherlock
+money: '0.0'

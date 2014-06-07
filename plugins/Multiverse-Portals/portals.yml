@@ -1,0 +1,170 @@
+portals:
+  Spawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -72.0,44.0,-265.0:-72.0,49.0,-265.0
+    world: Midgard
+    destination: p:Spawn2
+  Spawn2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -181.0,64.0,289.0:-181.0,70.0,289.0
+    world: Emeth
+    destination: e:Midgard:-71.62398117361131,64.0,-263.5750106745565:6.1501026:359.10007
+  Flat:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: 439.0,63.0,-1240.0:439.0,69.0,-1240.0
+    world: Midgard
+    destination: e:Emeth:-143.18993737296935,70.0,331.48829519797374:7.500002:-269.5499
+  Flat2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -142.0,69.0,331.0:-142.0,75.0,331.0
+    world: Emeth
+    destination: p:Flat
+  Mushroom2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -645.0,67.0,334.0:-645.0,71.0,334.0
+    world: Emeth
+    destination: p:Mushroom
+  Pumpkin2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -645.0,67.0,398.0:-645.0,71.0,398.0
+    world: Emeth
+    destination: p:Pumpkin
+  Pumpkin:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -2313.0,94.0,-2599.0:-2313.0,98.0,-2599.0
+    world: Midgard
+    destination: p:Pumpkin2
+  North:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -43.0,194.0,-123.0:-39.0,194.0,-119.0
+    world: Midgard
+    destination: e:Midgard:-151.86141309575297,65.0,-247.8895833971111:2.5502744:-178.95802
+  West:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -58.0,194.0,-108.0:-54.0,194.0,-104.0
+    world: Midgard
+    destination: e:Midgard:-1623.7486382349346,65.0,-776.2186523102748:7.499898:91.04158
+  South:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -43.0,194.0,-93.0:-39.0,194.0,-89.0
+    world: Midgard
+    destination: e:Midgard:40.14351809442531,65.0,1816.9294021548371:3.8999789:178.34163
+  East:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -28.0,194.0,-108.0:-24.0,194.0,-104.0
+    world: Midgard
+    destination: e:Midgard:247.28204793405354,65.0,-1431.7545441401003:7.94994:269.542
+  shop2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -41.0,183.0,-106.0:-41.0,186.0,-106.0
+    world: Midgard
+    destination: e:Midgard:-40.464728085025804,195.0,-107.33315274551958:15.599992:183.88867
+  shop:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -41.0,194.0,-106.0:-41.0,197.0,-106.0
+    world: Midgard
+    destination: e:Midgard:-40.5,184.0,-106.5:5.5499954:180.13858
+  Mushroom:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: 3386.0,69.0,3642.0:3386.0,73.0,3642.0
+    world: Midgard
+    destination: p:Mushroom2
+  Gate:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -32.0,168.0,-114.0:-32.0,172.0,-98.0
+    world: Midgard
+  Moving:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: 177.0,72.0,-938.0:180.0,75.0,-938.0
+    world: Midgard
+    destination: p:Moving2
+  Moving2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Girouard
+    location: -1113.0,102.0,-3871.0:-1110.0,105.0,-3871.0
+    world: Midgard
+    destination: p:Moving

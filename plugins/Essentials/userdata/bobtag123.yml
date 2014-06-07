@@ -1,0 +1,29 @@
+logoutlocation:
+  world: Midgard
+  x: -1799.3363369847252
+  y: 70.0
+  z: -786.1788910560684
+  yaw: -84.06623
+  pitch: 17.525211
+lastlocation:
+  world: Midgard
+  x: -1844.8618865637982
+  y: 71.0
+  z: -751.4844772827813
+  yaw: 95.43292
+  pitch: -25.579338
+timestamps:
+  login: 1383354546246
+  logout: 1383354714651
+  lastteleport: 1381713394903
+ipAddress: 76.170.194.118
+money: '93.0'
+homes:
+  home:
+    world: Midgard
+    x: -1872.0617930145354
+    y: 88.0
+    z: -726.88811044743
+    yaw: 88.12677
+    pitch: 27.846676
+nickname: Brobot

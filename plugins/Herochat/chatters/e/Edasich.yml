@@ -1,0 +1,7 @@
+name: Edasich
+activeChannel: Global
+channels:
+- Global
+ignores: []
+muted: false
+autojoin: false

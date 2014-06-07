@@ -1,0 +1,11 @@
+hiddenplugins:
+- PerformanceMonitor
+- WorlholeXTreme
+- Multiverse-Downloader
+- SolarApocalypse
+- Inception
+- CreeperHeal
+- Dynmap-Factions
+- Vanilla
+hidepluginscommand: false
+hideversioncommand: false

@@ -1,0 +1,38 @@
+Effects_Day0:
+- Set   <> Clear:Day
+- Set   <> Clear:Night
+- Set   <> GrassDie:On
+- Set   <> PlayerBurn:On
+- Set   <> PlayerFreeze:0
+- Set   <> BreathPuff:On
+- Set   <> NightStorm:On
+- Set   <> StopWater:Off
+- Set   <> BiomeChange:Off
+- Set   <> Multiplier:3
+- Set   <> NumOfChanges:10
+- Set   <> SeaLevel:256
+- Set   <> LavaBomb:Off
+- Set   <> LightingBomb:Off
+- Day   <> 79:all  -> 0:0
+- Day   <> 5:all   -> 51:0
+- Day   <> 17:all  -> 51:0
+- Day   <> 85:all  -> 51:0
+- Day   <> 126:all -> 51:0
+- Day   <> 125:all -> 51:0
+- Day   <> 87:all  -> 51:0
+- Day   <> 134:all -> 51:0
+- Day   <> 135:all -> 51:0
+- Day   <> 136:all -> 51:0
+- Day   <> 53:all  -> 51:0
+- Day   <> 47:all  -> 51:0
+- Day   <> 35:all  -> 51:0
+- Set   <> SeaLevel:52
+- Day   <> 8:all   -> 0:0
+- Day   <> 9:all   -> 0:0
+- Night <> 10:N0  -> 0:0
+- Night <> 11:N0  -> 0:0
+Mode: Normal
+Day: 27
+AutoStart: true
+ExtraEffects: true
+World: Dormin

@@ -1,0 +1,22 @@
+timestamps:
+  login: 1384716544605
+  logout: 1384716842545
+  lastteleport: 1384575143768
+ipAddress: 74.100.131.118
+lastlocation:
+  world: Midgard
+  x: -172.06755408660362
+  y: 63.0
+  z: -282.65408947342314
+  yaw: 29.691908
+  pitch: -7.7999887
+logoutlocation:
+  world: Midgard
+  x: -1872.925000011921
+  y: 93.0
+  z: -766.605502435241
+  yaw: -112.80261
+  pitch: 39.45
+nickname: GWADY
+money: '32.0'
+afk: false

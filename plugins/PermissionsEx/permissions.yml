@@ -1,0 +1,115 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - herochat.autojoin.global
+    - herochat.speak.global
+    - equipcontrol.armor.*
+    - essentials.world.*
+    - equipcontrol.weapon.*
+    - -yagp.throw.*
+    - loot.list.*
+    - dynmap.show.self
+    - stackableitems.stack
+    - essentials.powertool
+    - modifyworld.*
+    - essentials.spawn
+    - essentials.rules
+    - essentials.motd
+    - essentials.list
+    - essentials.helpop
+    - essentials.help
+    - essentials.afk
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.chat.color
+    - essentials.chat.question
+    - essentials.home
+    - essentials.sethome
+    - essentials.worlds.Durse
+    - essentials.ignore
+    - essentials.kit
+    - essentials.kits.newbie
+    - essentials.kits.tools
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.nick
+    - essentials.pay
+    - essentials.ping
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - multiverse.access.*
+    - multiverse.portal.access.*
+    - scavenger.scavenge
+    prefix: '&2'
+    suffix: ''
+    worlds:
+      Dormin2:
+        permissions:
+        - -essentials.*
+        - -modifyworld.items.have.chest
+        - modifyworld.*
+  victim:
+    permissions:
+    - -multiverse.access.*
+    - multiverse.access.Dormin
+    prefix: '&7Disheartened '
+    suffix: ''
+  mod:
+    inheritance:
+    - default
+    prefix: '&3'
+  admin:
+    inheritance:
+    - mod
+    permissions:
+    - powertool.reload
+  owner:
+    inheritance:
+    - admin
+    prefix: '&1'
+    suffix: ''
+    permissions:
+    - herochat.admin.unignore
+    - herochat.admin.stealth
+  wraith:
+    inheritance:
+    - default
+    permissions:
+    - singularity.throw.glitch
+    - -equipcontrol.armor.*
+    - -equipcontrol.weapon.*
+    - essentials.fireball
+    - -modifyworld.items.have.chest
+    - -modifyworld.damage.take.fire
+    - -modifyworld.damage.take.firetick
+    - -modifyworld.damage.take.drowning
+    - -modifyworld.mobtarget.*
+    - modifyworld.*
+    - powertool.use
+    - dynmap.show.self
+    - dynmap.hide.self
+    - yagp.throw.*
+    prefix: '&6&k'
+    suffix: ''
+users:
+  Girouard:
+    group:
+    - owner
+    permissions:
+    - permissions.*
+  gman57op:
+    group:
+    - mod
+  Edasich:
+    group:
+    - default
+  jonnyp10:
+    group:
+    - wraith
+  Sami_Marie: {}

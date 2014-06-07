@@ -1,0 +1,19 @@
+timestamps:
+  login: 1377921270850
+  logout: 1377921807190
+ipAddress: 63.142.161.6
+lastlocation:
+  world: Midgard
+  x: -1815.0471106309826
+  y: 70.0
+  z: -775.2027070350413
+  yaw: 54.59088
+  pitch: 23.999928
+logoutlocation:
+  world: Dormin
+  x: 125.6813752539164
+  y: 34.0
+  z: -243.10332618357648
+  yaw: -196.64423
+  pitch: 79.64999
+money: '0.0'

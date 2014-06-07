@@ -1,0 +1,452 @@
+13.08.29 21:34:59 [INFO] jonnyp10 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.29 21:35:18 [INFO] jonnyp10 failed Visible: interacts with a block out of sight. VL 6.
+13.08.29 21:35:23 [INFO] jonnyp10 failed Visible: interacts with a block out of sight. VL 12.
+13.08.29 21:35:24 [INFO] jonnyp10 failed WrongBlock: broke another block than clicked. VL 11.
+13.08.29 21:35:25 [INFO] jonnyp10 failed Visible: interacts with a block out of sight. VL 26.
+13.08.29 21:35:27 [INFO] jonnyp10 failed Visible: interacts with a block out of sight. VL 27.
+13.08.29 21:35:29 [INFO] jonnyp10 failed WrongBlock: broke another block than clicked. VL 21.
+13.08.29 21:35:30 [INFO] jonnyp10 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.08.29 21:42:17 [INFO] jonnyp10 failed Text: acted like spamming (IP: 63.142.161.5). VL 1.
+13.08.29 21:53:49 [INFO] jonnyp10 failed Commands: issued too many commands. VL 1.
+13.08.29 21:57:18 [INFO] jonnyp10 failed Commands: issued too many commands. VL 2.
+13.08.30 12:14:57 [INFO] Edasich failed SurvivalFly: tried to move from -124.55, 223.72, 365.23 to -124.55, 231.25, 365.23 over a distance of 7.53 block(s). VL 753.
+13.08.30 12:15:11 [INFO] Edasich failed SurvivalFly: tried to move from -124.94, 207.98, 365.23 to -124.94, 219.68, 365.23 over a distance of 11.70 block(s). VL 1170.
+13.08.30 12:16:38 [INFO] [NoCheatPlus] Configuration reloaded.
+13.08.30 13:07:07 [INFO] LenociSenoj failed SurvivalFly: tried to move unexpectedly. VL 47.
+13.08.30 13:07:09 [INFO] LenociSenoj failed SurvivalFly: tried to move unexpectedly. VL 106.
+13.08.30 20:11:43 [INFO] Sami_Marie failed FastClick: tried to move items in his inventory too quickly. VL 89.
+13.08.30 20:16:52 [INFO] Sami_Marie failed FastClick: tried to move items in his inventory too quickly. VL 415.
+13.08.30 21:40:11 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.08.30 22:21:30 [INFO] jonnyp10 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.30 22:21:32 [INFO] jonnyp10 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.30 22:21:34 [INFO] jonnyp10 failed MorePackets: sent 14 more packet(s) than expected. VL 14.
+13.08.30 22:21:39 [INFO] jonnyp10 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.30 22:21:55 [INFO] jonnyp10 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.30 22:21:59 [INFO] jonnyp10 failed MorePackets: sent 13 more packet(s) than expected. VL 13.
+13.08.30 22:22:02 [INFO] jonnyp10 failed FastHeal: regenerates health faster than usual. VL 34.
+13.08.30 22:22:10 [INFO] jonnyp10 failed SurvivalFly: tried to move unexpectedly. VL 10.
+13.08.30 22:22:21 [INFO] jonnyp10 failed SurvivalFly: tried to move unexpectedly. VL 15.
+13.08.30 22:22:32 [INFO] jonnyp10 failed SurvivalFly: tried to move unexpectedly. VL 23.
+13.08.30 23:11:09 [INFO] jonnyp10 failed FastHeal: regenerates health faster than usual. VL 38.
+13.08.30 23:29:28 [INFO] jonnyp10 failed FastHeal: regenerates health faster than usual. VL 38.
+13.08.31 16:41:44 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.08.31 17:14:16 [INFO] Sami_Marie failed FastClick: tried to move items in his inventory too quickly. VL 71.
+13.08.31 17:40:30 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.08.31 17:41:14 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 85.
+13.08.31 17:43:21 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 42.
+13.08.31 17:50:40 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 141.
+13.08.31 17:51:24 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 118.
+13.08.31 17:55:02 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.08.31 18:02:35 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 108.
+13.08.31 22:55:13 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 128.
+13.09.01 10:06:53 [INFO] LenociSenoj failed Visible: interacts with a block out of sight. VL 5.
+13.09.01 10:07:51 [INFO] LenociSenoj failed Visible: interacts with a block out of sight. VL 5.
+13.09.01 10:08:02 [INFO] LenociSenoj failed Visible: interacts with a block out of sight. VL 6.
+13.09.01 10:08:04 [INFO] LenociSenoj failed Visible: interacts with a block out of sight. VL 8.
+13.09.01 10:08:14 [INFO] LenociSenoj failed Visible: interacts with a block out of sight. VL 9.
+13.09.01 10:08:16 [INFO] LenociSenoj failed Visible: interacts with a block out of sight. VL 12.
+13.09.01 12:34:19 [INFO] Edasich failed WrongBlock: broke another block than clicked. VL 1417.
+13.09.01 13:19:48 [INFO] Edasich failed SelfHit: tried to self-hit. VL 1.
+13.09.01 15:56:39 [INFO] theepickill failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.02 02:41:23 [INFO] Sami_Marie failed SurvivalFly: tried to move from 3288.61, 63.42, -1132.16 to 3298.32, 63.41, -1136.52 over a distance of 10.65 block(s). VL 864.
+13.09.02 16:33:43 [INFO] Edasich failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.02 16:34:08 [INFO] Edasich failed Reach: tried to attack entity out of reach. VL 47.
+13.09.02 16:34:14 [INFO] Edasich failed Reach: tried to attack entity out of reach. VL 78.
+13.09.02 16:42:41 [INFO] lero1324 failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.02 16:42:57 [INFO] lero1324 failed SurvivalFly: tried to move from -713.51, 73.92, -385.68 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.02 16:43:02 [INFO] lero1324 failed GodMode: avoided taking damage or lagging. VL 15.
+13.09.02 16:43:03 [INFO] lero1324 failed Direction: tried to hit an entity out of line of sight. VL 16.
+13.09.02 16:43:04 [INFO] lero1324 failed SurvivalFly: tried to move from -712.28, 72.54, -385.07 to -711.78, 71.00, -371.75 over a distance of 13.41 block(s). VL 1174.
+13.09.02 16:43:26 [INFO] lero1324 failed GodMode: avoided taking damage or lagging. VL 24.
+13.09.02 17:11:51 [INFO] Sami_Marie failed SurvivalFly: tried to move from -527.58, 63.38, 3405.70 to -532.28, 63.35, 3378.75 over a distance of 27.36 block(s). VL 2550.
+13.09.03 14:27:42 [INFO] lero1324 failed SurvivalFly: tried to move from -202.70, 231.25, 3470.15 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.04 15:42:20 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 215.
+13.09.04 15:44:42 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 21.
+13.09.04 15:44:47 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 120.
+13.09.05 03:59:30 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 9.
+13.09.05 03:59:35 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 28.
+13.09.05 15:34:15 [INFO] Cakelies failed SurvivalFly: tried to move from 532.84, 63.36, -711.07 to 514.12, 63.38, -711.08 over a distance of 18.72 block(s). VL 1677.
+13.09.06 17:17:57 [INFO] lero1324 failed FastClick: tried to move items in his inventory too quickly. VL 80.
+13.09.06 17:18:18 [INFO] lero1324 failed FastClick: tried to move items in his inventory too quickly. VL 206.
+13.09.06 17:18:30 [INFO] lero1324 failed FastClick: tried to move items in his inventory too quickly. VL 930.
+13.09.06 21:36:42 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 160.
+13.09.06 22:16:25 [INFO] Edasich failed SurvivalFly: tried to move from 154.10, 72.00, -925.52 to 150.50, 72.00, -930.50 over a distance of 6.14 block(s). VL 492.
+13.09.06 22:19:11 [INFO] lero1324 failed Visible: interacts with a block out of sight. VL 5.
+13.09.06 22:36:55 [INFO] lero1324 failed Frequency: tried to break too many blocks within time frame. VL 8.
+13.09.06 22:39:40 [INFO] lero1324 failed FastClick: tried to move items in his inventory too quickly. VL 1364.
+13.09.06 23:17:07 [INFO] Canadian_cookie failed BedLeave: sends bed leave packets (was not in bed). VL 1.
+13.09.07 00:14:46 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.07 00:48:16 [INFO] lero1324 failed SurvivalFly: tried to move unexpectedly. VL 26.
+13.09.07 02:03:44 [INFO] Edasich failed Visible: interacts with a block out of sight. VL 6.
+13.09.07 02:40:27 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 13.
+13.09.07 02:40:31 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 101.
+13.09.07 02:40:36 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 165.
+13.09.07 02:40:41 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 280.
+13.09.07 02:40:46 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 322.
+13.09.07 02:40:51 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 364.
+13.09.07 02:40:56 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 392.
+13.09.07 02:40:57 [INFO] Sami_Marie failed SurvivalFly: tried to move from -741.40, 112.00, -372.39 to -740.85, 112.00, -371.97 over a distance of 0.69 block(s). VL 448.
+13.09.07 02:42:35 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 120.
+13.09.07 18:51:28 [INFO] lero1324 failed FastClick: tried to move items in his inventory too quickly. VL 87.
+13.09.08 14:42:23 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.08 18:52:33 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 161.
+13.09.08 19:02:39 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.08 20:25:22 [INFO] Edasich failed FastClick: tried to move items in his inventory too quickly. VL 90.
+13.09.08 21:27:21 [INFO] theepickill failed SurvivalFly: tried to move unexpectedly. VL 129.
+13.09.08 22:24:02 [INFO] lero1324 failed SurvivalFly: tried to move unexpectedly. VL 26.
+13.09.08 23:10:52 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.09 15:03:01 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.09 21:56:27 [INFO] Edasich failed SurvivalFly: tried to move from 136.15, 70.50, -927.29 to 126.50, 71.00, -927.50 over a distance of 9.66 block(s). VL 843.
+13.09.09 22:49:36 [INFO] lero1324 failed SurvivalFly: tried to move unexpectedly. VL 200.
+13.09.10 22:17:20 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 312.
+13.09.10 22:19:33 [INFO] dreXcraft failed Passable: moved into a block (113). VL 11.
+13.09.10 22:19:38 [INFO] dreXcraft failed Passable: moved into a block (113). VL 21.
+13.09.10 22:19:43 [INFO] dreXcraft failed Passable: moved into a block (113). VL 35.
+13.09.10 22:19:48 [INFO] dreXcraft failed Passable: moved into a block (113). VL 42.
+13.09.10 22:26:07 [INFO] lero1324 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.09.10 22:41:00 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 99.
+13.09.10 22:41:01 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 113.
+13.09.10 22:48:25 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.12 17:23:39 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 159.
+13.09.13 19:45:21 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.13 20:38:23 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.13 20:49:08 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 21.
+13.09.13 20:55:50 [INFO] dreXcraft failed SurvivalFly: tried to move from -1814.70, 71.10, -793.22 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 21:01:13 [INFO] dreXcraft failed SurvivalFly: tried to move from -1810.43, 70.83, -706.10 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 504.
+13.09.13 21:05:14 [INFO] dreXcraft failed SurvivalFly: tried to move from -1817.55, 68.02, -731.90 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 21:05:19 [INFO] dreXcraft failed SurvivalFly: tried to move from -1817.55, 69.00, -731.90 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 1000.
+13.09.13 21:06:05 [INFO] dreXcraft failed SurvivalFly: tried to move from -1817.55, 69.00, -731.90 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 1500.
+13.09.13 21:08:11 [INFO] dreXcraft failed SurvivalFly: tried to move from -1818.45, 66.17, -730.25 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 562.
+13.09.13 21:21:33 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.13 21:25:14 [INFO] dreXcraft failed FastBreak: tried to break blocks (56) faster than possible. VL 1.
+13.09.13 21:25:19 [INFO] dreXcraft failed FastBreak: tried to break blocks (56) faster than possible. VL 1.
+13.09.13 21:25:26 [INFO] dreXcraft failed FastBreak: tried to break blocks (16) faster than possible. VL 1.
+13.09.13 21:25:49 [INFO] dreXcraft failed FastBreak: tried to break blocks (15) faster than possible. VL 1.
+13.09.13 21:25:54 [INFO] dreXcraft failed FastBreak: tried to break blocks (15) faster than possible. VL 2.
+13.09.13 21:28:17 [INFO] dreXcraft failed FastBreak: tried to break blocks (15) faster than possible. VL 1.
+13.09.13 21:30:20 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 5.
+13.09.13 21:30:59 [INFO] dreXcraft failed SurvivalFly: tried to move from -1817.19, 70.17, -730.72 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 21:34:43 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 200.
+13.09.13 21:34:48 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.09.13 21:34:51 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 39.
+13.09.13 21:35:17 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 182.
+13.09.13 21:36:45 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.09.13 21:36:45 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 6.
+13.09.13 21:36:57 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 15.
+13.09.13 21:37:34 [INFO] dreXcraft failed Angle: tried to hit multiple entities at the same time. VL 285.
+13.09.13 21:37:34 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 13.
+13.09.13 21:37:35 [INFO] dreXcraft failed SurvivalFly: tried to move from -1814.05, 69.00, -723.22 to -1807.68, 69.00, -716.02 over a distance of 9.61 block(s). VL 839.
+13.09.13 21:38:08 [INFO] dreXcraft failed Angle: tried to hit multiple entities at the same time. VL 414.
+13.09.13 21:53:22 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 4.
+13.09.13 21:55:52 [INFO] dreXcraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 98.
+13.09.13 21:57:01 [INFO] dreXcraft failed SurvivalFly: tried to move from -1838.65, 70.10, -729.86 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 21:57:13 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 388.
+13.09.13 21:58:09 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 4.
+13.09.13 22:00:02 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 30.
+13.09.13 22:00:08 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 47.
+13.09.13 22:00:09 [INFO] Canadian_cookie failed Text: acted like spamming (IP: 96.229.225.212). VL 0.
+13.09.13 22:00:50 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 55.
+13.09.13 22:01:46 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 17.
+13.09.13 22:01:47 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 3.
+13.09.13 22:01:49 [INFO] dreXcraft failed Direction: tried to hit an entity out of line of sight. VL 7.
+13.09.13 22:01:55 [INFO] dreXcraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 196.
+13.09.13 22:01:55 [INFO] dreXcraft failed Angle: tried to hit multiple entities at the same time. VL 263.
+13.09.13 22:05:05 [INFO] dreXcraft failed SurvivalFly: tried to move from -1807.32, 69.75, -774.23 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 22:08:58 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 9.
+13.09.13 22:09:49 [INFO] dreXcraft failed SurvivalFly: tried to move from -1811.70, 68.75, -721.43 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 22:11:26 [INFO] dreXcraft failed SurvivalFly: tried to move from -1853.97, 75.17, -729.44 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 22:12:36 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 26.
+13.09.13 22:12:42 [INFO] dreXcraft failed SurvivalFly: tried to move from -1836.87, 72.25, -736.92 to -1807.97, 69.00, -738.02 over a distance of 29.11 block(s). VL 2772.
+13.09.13 22:16:46 [INFO] dreXcraft failed Angle: tried to hit multiple entities at the same time. VL 304.
+13.09.13 22:17:17 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 41.
+13.09.13 22:17:17 [INFO] dreXcraft failed Angle: tried to hit multiple entities at the same time. VL 398.
+13.09.13 22:18:55 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 20.
+13.09.13 22:19:01 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 62.
+13.09.13 22:19:24 [INFO] dreXcraft failed SurvivalFly: tried to move from -1819.94, 70.42, -769.17 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 22:24:33 [INFO] dreXcraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 245.
+13.09.13 22:34:48 [INFO] bobtag123 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+13.09.13 22:49:17 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.13 22:49:19 [INFO] dreXcraft failed Angle: tried to hit multiple entities at the same time. VL 298.
+13.09.13 22:49:23 [INFO] dreXcraft failed Direction: tried to hit an entity out of line of sight. VL 10.
+13.09.13 22:50:14 [INFO] dreXcraft failed SurvivalFly: tried to move from -1853.50, 12.75, -713.19 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.13 22:53:35 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 237.
+13.09.13 23:05:24 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 6.
+13.09.13 23:06:42 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 21.
+13.09.13 23:06:49 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 58.
+13.09.13 23:10:26 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 18.
+13.09.13 23:10:31 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 14.
+13.09.14 14:07:29 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 154.
+13.09.14 14:23:14 [INFO] Chocolatefugepie failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.14 14:41:14 [INFO] theepickill failed SurvivalFly: tried to move unexpectedly. VL 24.
+13.09.14 15:45:16 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 123.
+13.09.14 16:55:04 [INFO] Chocolatefugepie failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.14 16:59:35 [INFO] Chocolatefugepie failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.14 17:11:11 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 7.
+13.09.14 17:53:31 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 44.
+13.09.14 17:53:54 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 55.
+13.09.14 17:54:14 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 3.
+13.09.14 17:54:21 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 2.
+13.09.14 17:54:29 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 1.
+13.09.14 17:54:36 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 1.
+13.09.14 17:54:55 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 6.
+13.09.14 17:55:00 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 3.
+13.09.14 17:55:09 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 1.
+13.09.14 17:59:57 [INFO] theepickill failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.14 19:46:34 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 22.
+13.09.14 19:47:54 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 167.
+13.09.14 19:49:38 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 359.
+13.09.14 19:49:58 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 121.
+13.09.14 19:50:06 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 380.
+13.09.14 19:52:25 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 235.
+13.09.14 19:53:03 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 121.
+13.09.14 20:07:39 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 128.
+13.09.14 20:13:16 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 175.
+13.09.14 20:17:23 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 130.
+13.09.14 20:19:14 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 119.
+13.09.14 22:42:00 [INFO] Chocolatefugepie failed SurvivalFly: tried to move from -1733.81, 63.38, -776.65 to -1733.78, 63.34, -782.91 over a distance of 6.26 block(s). VL 514.
+13.09.15 11:23:54 [INFO] Chocolatefugepie failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.09.15 11:23:59 [INFO] Chocolatefugepie failed Direction: tried to interact with a block out of his line of sight. VL 18.
+13.09.15 12:03:09 [INFO] Chocolatefugepie failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.15 12:22:52 [INFO] dreXcraft failed Passable: moved into a block (11). VL 10.
+13.09.15 13:00:05 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.15 13:42:45 [INFO] Edasich failed SelfHit: tried to self-hit. VL 1.
+13.09.15 14:00:09 [INFO] Chocolatefugepie failed Speed: tried to attack with too high a frequency. VL 3.
+13.09.15 14:02:31 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 60.
+13.09.15 14:40:17 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.15 17:48:45 [INFO] dreXcraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 51.
+13.09.15 18:06:47 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 17.
+13.09.15 18:07:08 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 15.
+13.09.15 18:09:06 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.15 18:13:33 [INFO] dreXcraft failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.15 18:16:41 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.15 18:58:03 [INFO] dreXcraft failed SurvivalFly: tried to move from -1812.45, 72.17, -726.70 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.15 19:51:25 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.15 20:37:13 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 196.
+13.09.15 21:26:07 [INFO] Chocolatefugepie failed Visible: interacts with a block out of sight. VL 6.
+13.09.15 21:29:58 [INFO] lero1324 failed FastClick: tried to move items in his inventory too quickly. VL 78.
+13.09.15 21:53:14 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 7.
+13.09.15 21:53:20 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 3.
+13.09.15 21:53:30 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 9.
+13.09.15 21:54:29 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 11.
+13.09.15 21:54:37 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 9.
+13.09.15 21:54:42 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 57.
+13.09.15 22:16:05 [INFO] Chocolatefugepie failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.16 00:22:05 [INFO] lero1324 failed SurvivalFly: tried to move unexpectedly. VL 40.
+13.09.16 19:47:43 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 11.
+13.09.16 20:04:11 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.09.16 20:04:14 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 40.
+13.09.16 20:17:48 [INFO] dreXcraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 77.
+13.09.16 21:06:40 [INFO] bobtag123 failed NoFall: tried to avoid fall damage. VL 1.
+13.09.17 19:18:35 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 21.
+13.09.17 19:18:41 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 34.
+13.09.17 20:10:36 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 125.
+13.09.17 20:22:03 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.17 20:47:52 [INFO] theepickill failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.18 18:04:49 [INFO] dreXcraft failed SurvivalFly: tried to move from -1844.70, 217.14, -803.70 to -1844.70, 223.74, -803.70 over a distance of 6.59 block(s). VL 659.
+13.09.18 18:12:20 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 256.
+13.09.18 19:33:14 [INFO] bobtag123 failed SurvivalFly: tried to move from -1844.64, 71.02, -730.45 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.18 19:33:18 [INFO] bobtag123 failed SurvivalFly: tried to move unexpectedly. VL 394.
+13.09.18 21:27:06 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.18 22:21:29 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 6.
+13.09.18 23:13:20 [INFO] PygmySmasher failed SurvivalFly: tried to move from -40.32, 195.00, -117.44 to -40.50, 195.00, -106.50 over a distance of 10.95 block(s). VL 973.
+13.09.18 23:18:48 [INFO] PygmySmasher failed SurvivalFly: tried to move from -1400.11, 58.74, -802.38 to -1400.11, 65.46, -802.38 over a distance of 6.72 block(s). VL 402.
+13.09.18 23:20:09 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.09.19 20:07:59 [INFO] bobtag123 failed SurvivalFly: tried to move from -1885.31, 100.77, -729.43 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.19 22:00:13 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 4.
+13.09.19 22:00:20 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 17.
+13.09.19 22:00:25 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 28.
+13.09.19 22:00:31 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 17.
+13.09.19 22:00:34 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 103.
+13.09.19 22:11:55 [INFO] lero1324 failed FastClick: tried to move items in his inventory too quickly. VL 72.
+13.09.19 22:20:07 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 181.
+13.09.19 22:37:39 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 136.
+13.09.19 22:46:47 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 124.
+13.09.19 23:16:17 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 47.
+13.09.19 23:16:19 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 110.
+13.09.19 23:16:24 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 239.
+13.09.19 23:16:41 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 14.
+13.09.19 23:16:46 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 51.
+13.09.19 23:16:47 [INFO] Sami_Marie failed SurvivalFly: tried to move unexpectedly. VL 109.
+13.09.19 23:27:34 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 344.
+13.09.20 19:35:54 [INFO] dreXcraft failed SurvivalFly: tried to move from -1852.03, 71.00, -742.10 to -1852.00, 71.00, -735.77 over a distance of 6.33 block(s). VL 498.
+13.09.20 19:38:23 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 60.
+13.09.20 19:38:30 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 32.
+13.09.20 23:22:29 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.09.21 00:01:58 [INFO] kylethorne failed SurvivalFly: tried to move unexpectedly. VL 13.
+13.09.21 17:32:00 [INFO] Edasich failed Speed: tried to attack with too high a frequency. VL 2.
+13.09.21 18:07:20 [INFO] Edasich failed SurvivalFly: tried to move unexpectedly. VL 112.
+13.09.21 18:11:21 [INFO] Edasich failed FastClick: tried to move items in his inventory too quickly. VL 85.
+13.09.21 18:15:18 [INFO] Edasich failed FastClick: tried to move items in his inventory too quickly. VL 132.
+13.09.22 20:55:22 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.23 22:00:25 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 6.
+13.09.23 22:00:25 [INFO] dreXcraft failed Passable: moved into a block (13). VL 11.
+13.09.23 22:00:27 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 25.
+13.09.23 22:00:29 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 45.
+13.09.23 22:00:30 [INFO] dreXcraft failed Passable: moved into a block (13). VL 39.
+13.09.23 22:00:31 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 61.
+13.09.23 22:00:31 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 7.
+13.09.23 22:00:31 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 37.
+13.09.23 22:00:32 [INFO] dreXcraft failed Passable: moved into a block (13). VL 50.
+13.09.23 22:00:36 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 81.
+13.09.23 22:00:37 [INFO] dreXcraft failed Passable: moved into a block (13). VL 69.
+13.09.23 22:00:37 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 72.
+13.09.23 22:00:38 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 112.
+13.09.23 22:00:39 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 81.
+13.09.23 22:00:40 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 12.
+13.09.23 22:00:41 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 94.
+13.09.23 22:00:42 [INFO] dreXcraft failed Passable: moved into a block (13). VL 96.
+13.09.23 22:01:35 [INFO] dreXcraft failed Passable: moved into a block (13). VL 101.
+13.09.23 22:01:36 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 106.
+13.09.23 22:01:39 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 107.
+13.09.23 22:01:41 [INFO] dreXcraft failed Passable: moved into a block (13). VL 103.
+13.09.23 22:01:44 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 108.
+13.09.23 22:01:45 [INFO] dreXcraft failed GodMode: avoided taking damage or lagging. VL 21.
+13.09.23 22:01:46 [INFO] dreXcraft failed Passable: moved into a block (13). VL 121.
+13.09.23 22:01:46 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 111.
+13.09.23 22:01:48 [INFO] dreXcraft failed Visible: interacts with a block out of sight. VL 117.
+13.09.24 19:00:57 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.24 19:01:56 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 44.
+13.09.24 19:02:48 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 67.
+13.09.24 19:02:55 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 27.
+13.09.24 19:03:04 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 66.
+13.09.24 19:03:13 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 33.
+13.09.24 19:03:21 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 101.
+13.09.24 19:03:30 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 23.
+13.09.24 19:03:39 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 38.
+13.09.24 19:04:56 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 93.
+13.09.24 19:04:58 [INFO] cookinthehouse2 failed SurvivalFly: tried to move unexpectedly. VL 108.
+13.09.28 10:37:48 [INFO] kylethorne failed SurvivalFly: tried to move unexpectedly. VL 53.
+13.09.28 10:42:59 [INFO] kylethorne failed SurvivalFly: tried to move unexpectedly. VL 52.
+13.09.28 13:05:17 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 8.
+13.09.28 13:05:23 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 8.
+13.09.28 13:06:09 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 2.
+13.09.28 13:06:14 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 36.
+13.09.28 13:06:34 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 9.
+13.09.28 13:06:45 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 18.
+13.09.28 13:06:50 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 26.
+13.09.28 18:38:37 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.09.28 19:58:55 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.09.28 23:15:06 [INFO] kylethorne failed NoFall: tried to avoid fall damage. VL 1.
+13.09.29 01:45:48 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 192.
+13.09.29 14:30:31 [INFO] PygmySmasher failed Visible: interacts with a block out of sight. VL 5.
+13.09.29 21:10:24 [INFO] Edasich failed FastBreak: tried to break blocks (5) faster than possible. VL 1.
+13.09.29 21:10:49 [INFO] Edasich failed FastBreak: tried to break blocks (5) faster than possible. VL 0.
+13.09.29 21:11:03 [INFO] Edasich failed FastBreak: tried to break blocks (5) faster than possible. VL 0.
+13.09.29 21:11:16 [INFO] Edasich failed FastBreak: tried to break blocks (5) faster than possible. VL 0.
+13.09.29 21:11:25 [INFO] Edasich failed FastBreak: tried to break blocks (5) faster than possible. VL 0.
+13.09.29 21:11:30 [INFO] Edasich failed FastBreak: tried to break blocks (5) faster than possible. VL 0.
+13.09.30 22:40:37 [INFO] PygmySmasher failed Visible: interacts with a block out of sight. VL 6.
+13.09.30 22:40:37 [INFO] PygmySmasher failed SurvivalFly: tried to move from -1820.24, 72.17, -825.41 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.09.30 22:40:39 [INFO] PygmySmasher failed Visible: interacts with a block out of sight. VL 7.
+13.10.01 00:23:52 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 124.
+13.10.01 00:30:54 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.10.02 18:10:51 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 3.
+13.10.02 18:11:05 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 3.
+13.10.02 18:11:20 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 2.
+13.10.02 18:11:42 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 0.
+13.10.04 19:24:48 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.10.04 19:42:29 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 211.
+13.10.08 18:52:56 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.10.08 21:04:57 [INFO] Canadian_cookie failed NoFall: tried to avoid fall damage. VL 1.
+13.10.08 21:15:04 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.10.09 18:43:37 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 101.
+13.10.09 19:25:01 [INFO] Canadian_cookie failed NoFall: tried to avoid fall damage. VL 1.
+13.10.09 19:25:11 [INFO] Canadian_cookie failed NoFall: tried to avoid fall damage. VL 2.
+13.10.09 19:31:26 [INFO] Canadian_cookie failed NoFall: tried to avoid fall damage. VL 3.
+13.10.09 19:42:30 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.10.10 19:24:58 [INFO] dreXcraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.10.11 16:52:03 [INFO] Canadian_cookie failed NoFall: tried to avoid fall damage. VL 1.
+13.10.11 17:07:30 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 389.
+13.10.11 17:46:51 [INFO] dreXcraft failed NoFall: tried to avoid fall damage. VL 1.
+13.10.11 17:58:40 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.10.11 21:45:29 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 257.
+13.10.11 23:08:26 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 151.
+13.10.12 00:12:46 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 7.
+13.10.12 00:12:51 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 61.
+13.10.12 00:14:01 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 159.
+13.10.12 00:53:11 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 119.
+13.10.12 13:29:02 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.10.12 16:51:36 [INFO] Chocolatefugepie failed NoFall: tried to avoid fall damage. VL 1.
+13.10.13 12:56:56 [INFO] PygmySmasher failed FastBreak: tried to break blocks (82) faster than possible. VL 1.
+13.10.13 13:09:00 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.10.13 13:09:24 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.10.13 13:10:10 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.10.13 13:10:46 [INFO] PygmySmasher failed FastBreak: tried to break blocks (74) faster than possible. VL 0.
+13.10.13 13:11:01 [INFO] PygmySmasher failed FastBreak: tried to break blocks (74) faster than possible. VL 1.
+13.10.13 13:11:27 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+13.10.13 14:57:46 [INFO] Chocolatefugepie failed FastBreak: tried to break blocks (74) faster than possible. VL 23.
+13.10.13 15:13:42 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 7.
+13.10.13 15:13:49 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 1.
+13.10.13 15:13:58 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 0.
+13.10.13 16:03:51 [INFO] PygmySmasher failed FastBreak: tried to break blocks (12) faster than possible. VL 0.
+13.10.13 16:04:08 [INFO] PygmySmasher failed FastBreak: tried to break blocks (12) faster than possible. VL 0.
+13.10.13 16:04:35 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+13.10.13 16:15:50 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+13.10.13 16:15:57 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+13.10.13 16:16:02 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+13.10.13 16:16:29 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.10.13 16:16:35 [INFO] PygmySmasher failed FastBreak: tried to break blocks (3) faster than possible. VL 0.
+13.10.13 16:16:40 [INFO] PygmySmasher failed FastBreak: tried to break blocks (3) faster than possible. VL 0.
+13.10.13 16:17:03 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+13.10.13 17:04:46 [INFO] Chocolatefugepie failed Passable: moved into a block (49). VL 11.
+13.10.13 17:04:47 [INFO] Chocolatefugepie failed GodMode: avoided taking damage or lagging. VL 12.
+13.10.13 17:04:56 [INFO] Chocolatefugepie failed Passable: moved into a block (5). VL 22.
+13.10.13 17:35:59 [INFO] Chocolatefugepie failed FastClick: tried to move items in his inventory too quickly. VL 81.
+13.10.13 19:36:50 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.10.13 21:12:23 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 8.
+13.10.13 21:12:29 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 15.
+13.10.13 21:12:38 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 45.
+13.10.13 22:45:53 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.10.13 22:45:59 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 17.
+13.10.13 23:27:59 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.10.13 23:28:02 [INFO] dreXcraft failed Direction: tried to interact with a block out of his line of sight. VL 17.
+13.10.14 00:03:28 [INFO] dreXcraft failed FastBreak: tried to break blocks (74) faster than possible. VL 1.
+13.10.14 00:03:35 [INFO] dreXcraft failed FastBreak: tried to break blocks (74) faster than possible. VL 1.
+13.10.14 00:04:07 [INFO] dreXcraft failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.10.14 00:04:52 [INFO] dreXcraft failed SurvivalFly: tried to move from -1754.99, 22.75, -712.03 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.10.14 00:04:59 [INFO] dreXcraft failed SurvivalFly: tried to move from -1754.63, 22.00, -712.07 to -1754.39, 22.00, -712.11 over a distance of 0.24 block(s). VL 453.
+13.10.14 18:57:48 [INFO] PygmySmasher failed SurvivalFly: tried to move from -1809.30, 72.00, -814.29 to -1813.50, 72.00, -817.50 over a distance of 5.29 block(s). VL 407.
+13.10.14 22:21:01 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 12.
+13.10.15 19:13:02 [INFO] PygmySmasher failed SurvivalFly: tried to move from -1784.46, 75.17, -812.89 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.10.15 21:47:00 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 25.
+13.10.15 21:47:18 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 41.
+13.10.15 21:47:25 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 74.
+13.10.15 21:47:29 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 147.
+13.10.15 21:48:10 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 10.
+13.10.16 18:18:17 [INFO] dreXcraft failed SurvivalFly: tried to move unexpectedly. VL 115.
+13.10.24 18:41:52 [INFO] Canadian_cookie failed SurvivalFly: tried to move unexpectedly. VL 100.
+13.10.26 18:28:40 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 261.
+13.10.26 18:28:42 [INFO] Chocolatefugepie failed SurvivalFly: tried to move from -1846.56, 71.00, -766.49 to -1844.11, 71.00, -766.16 over a distance of 2.47 block(s). VL 474.
+13.10.31 20:39:49 [INFO] Chocolatefugepie failed Text: acted like spamming (IP: 74.100.131.118). VL 1.
+13.10.31 21:07:04 [INFO] theepickill failed SurvivalFly: tried to move unexpectedly. VL 119.
+13.11.02 16:53:38 [INFO] PygmySmasher failed FastBreak: tried to break blocks (4) faster than possible. VL 11.
+13.11.02 16:53:40 [INFO] PygmySmasher failed SurvivalFly: tried to move from -1800.24, 76.00, -805.73 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.11.02 16:53:43 [INFO] PygmySmasher failed FastBreak: tried to break blocks (4) faster than possible. VL 13.
+13.11.02 16:53:45 [INFO] PygmySmasher failed SurvivalFly: tried to move from -1800.48, 75.77, -805.51 to -1800.55, 75.54, -805.42 over a distance of 0.25 block(s). VL 451.
+13.11.02 16:54:01 [INFO] PygmySmasher failed FastBreak: tried to break blocks (4) faster than possible. VL 8.
+13.11.08 22:31:21 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 327.
+13.11.09 23:57:27 [INFO] Canadian_cookie failed SurvivalFly: tried to move from -1759.68, 16.42, -686.44 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.11.10 00:34:10 [INFO] Canadian_cookie failed Speed: tried to throw projectiles too quickly. VL 237.
+13.11.14 19:12:38 [INFO] Chocolatefugepie failed NoFall: tried to avoid fall damage. VL 1.
+13.11.14 21:36:04 [INFO] Canadian_cookie failed Text: acted like spamming (IP: 96.229.225.156). VL 1.
+13.11.14 21:46:46 [INFO] Canadian_cookie failed Text: acted like spamming (IP: 96.229.225.156). VL 0.
+13.11.15 19:20:07 [INFO] Chocolatefugepie failed SurvivalFly: tried to move unexpectedly. VL 159.
+13.11.15 19:26:50 [INFO] Chocolatefugepie failed Text: acted like spamming (IP: 74.100.131.118). VL 3.
+13.11.15 19:36:14 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 11.
+13.11.15 19:49:35 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 0.
+13.11.15 19:49:41 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 1.
+13.11.15 19:50:12 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 0.
+13.11.15 19:50:24 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.11.15 19:50:29 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.11.15 19:53:42 [INFO] PygmySmasher failed FastBreak: tried to break blocks (16) faster than possible. VL 0.
+13.11.15 19:53:52 [INFO] PygmySmasher failed FastBreak: tried to break blocks (16) faster than possible. VL 0.
+13.11.15 19:54:06 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 0.
+13.11.15 19:54:17 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 1.
+13.11.15 19:54:23 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 1.
+13.11.15 19:54:30 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 2.
+13.11.15 19:54:52 [INFO] PygmySmasher failed FastBreak: tried to break blocks (13) faster than possible. VL 1.
+13.11.15 19:55:00 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 1.
+13.11.15 19:55:14 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.11.15 19:55:19 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.11.15 19:55:25 [INFO] PygmySmasher failed FastBreak: tried to break blocks (1) faster than possible. VL 0.
+13.11.16 16:07:26 [INFO] PygmySmasher failed SurvivalFly: tried to move unexpectedly. VL 205.

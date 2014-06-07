@@ -1,0 +1,94 @@
+
+= INSTALLATION = 
+To install Performance Monitor you must run a bukkit server and it's recommended to use the intended game
+version. You must locate your servers "plugins" directory where you'll have to place the JAR file
+contained by the ZIP archive in which you found this guide. If you prefer to change configurations before
+starting the plugin you may do so by moving the "PerformanceMonitor" folder from the ZIP archive to your servers
+"plugins" directory. You then have to edit the "config.yml" file to change the configuration.
+
+
+= CHANGING CONFIGURATION =
+You can change configuration settings at any time by editing the "config.yml" file located in
+the "PerformanceMonitor" folder inside your servers "plugin" directory. After you edited the file
+you must have the plugin to reload the configuration, you can do this by:
+
+- Restarting the server
+- Execute the "serverstate" command
+- Execute the "/ss reload" command
+
+
+= COMMANDS =
+/serverstate - Show the server stats
+/serverstate time - Show only the time stats
+/serverstate memory - Show only the memory stats
+/serverstate disk - Show only the disk stats
+/serverstate backup - Show only the backup stats
+/serverstate world - Show only the world stats
+/serverstate player - Show only the player stats
+/serverstate server - Show only the specific server stats
+/serverstate reload - Reload the configuration
+
+Note that the "/ss" command can be used instead of "/serverstate" for faster access!
+
+
+= PERMISSIONS = 
+pmonitor.* - Permission to all features
+pmonitor.showstate - Show the server stats
+
+pmonitor.show.* - Show all permissions
+pmonitor.show.lastBackup - PShow last generated backup
+pmonitor.show.generatedBackups - Show amount of generated backups
+pmonitor.show.logSize - Show log size
+pmonitor.show.freeDiskSize - Show free disk size
+pmonitor.show.totalMemory - Show total memory
+pmonitor.show.freeMemory - Show free memory
+pmonitor.show.usedMemory - Show used memory
+pmonitor.show.onlinePlayers - Show online players
+pmonitor.show.uniqueLogins - Show unique logins
+pmonitor.show.creativePlayers - Show amount of creative players
+pmonitor.show.survivalPlayers - Show amount of survival players
+pmonitor.show.adventurePlayers - Show amount of adventure players
+pmonitor.show.totalOperators - Show amount of operators
+pmonitor.show.bukkitversion - Show bukkit version
+pmonitor.show.ipAndPort - Show IP and PORT
+pmonitor.show.loadedPlugins - Show amount of loaded plugins
+pmonitor.show.tps - Show TPS (Ticks per second)
+pmonitor.show.serverHealth - Show server health
+pmonitor.show.serverTime - Show server time
+pmonitor.show.lastRestart - Show time since last restart
+pmonitor.show.worldSize - Show world size
+pmonitor.show.loadedChunks - Show loaded chunks
+pmonitor.show.livingEntities - Show living entities
+pmonitor.show.entities - Show entities
+
+
+= Plugin version verification =
+Every time you start your server the plugin will attempt to see if there is any new versions available for
+download. If the attempt is unsuccessful the plugin will skip the version verification. This will not affect
+your servers performance or how fast the plugin loads in any noticeable way. This feature can be turned off in
+the configuration but it's recommended to leave it on.
+
+= Privacy =
+This plugin keep track on the amount of users and which version of the plugin that is the most popular. I respect
+everyone's privacy and I guarantee not even your server IP is picked up.
+
+
+= MESSAGE FROM THE DEVELOPER =
+Thank you for downloading my Performance Monitor plugin! It was never intended to make this
+plugin available to the public, just a simple solution for my own server issues. Even though I have
+been inactive from time to time the amount of servers using my plugin has just kept getting more
+and more. I am very thankful for you using my plugin, it keeps my motivation high!
+
+
+= SUPPORT =
+You may not expect to have your messages answered on BukkitDev as I'm not a very active user. Even if I might not
+answer your message you may found a solution in the comments, on the forum or from my earlier posts. If your issue
+still remains you can always contact me through e-mail richard.dahlgren@programmer.net which I usually
+check a few times per day.
+
+Even if you don't have any issue but just want to ask me something, speak to me or tell me what you think about
+the plugin you are always welcome to contact me using the methods described above.
+
+
+= LINKS =
+BukkitDev: http://dev.bukkit.org/bukkit-plugins/performance-monitor/

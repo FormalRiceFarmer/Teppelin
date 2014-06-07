@@ -1,0 +1,23 @@
+allWorlds:
+  default:
+    MIN: -1
+    MAX: -1
+  testPlayer:
+    MIN: -1
+    MAX: -1
+  testGroup:
+    MIN: -1
+    MAX: -1
+  chest:
+    MIN: -1
+    MAX: -1
+  wraith:
+    MIN: -1
+    MAX: -1
+    potion: 5
+    emerald: 1
+    sandstone: infinite
+testWorld:
+  default:
+    MIN: -1
+    MAX: -1

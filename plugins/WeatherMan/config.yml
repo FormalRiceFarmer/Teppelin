@@ -1,0 +1,22 @@
+WeatherMan:
+  wand-item-id: 370
+  default-radius: 5
+  melt-snow: true
+  melt-ice: true
+  smoke-effect: true
+  smoke-chance: 50
+  default-biome: iceplains
+  maximum-command-radius: 250
+  maximum-wand-radius: 15
+  maximum-sign-radius: 100
+  spawn-nether-mobs-in-normal: true
+  language: english
+  language-save: false
+  color-in-console: false
+  biomes:
+    disable-snow-forming: ''
+    disable-ice-forming: ''
+  check-updates: true
+  libigot-enabled: false
+  local-weather:
+    enable: true

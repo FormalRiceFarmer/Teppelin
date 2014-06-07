@@ -1,0 +1,15 @@
+# Authors: Xaymar
+# Copyright: 2012-2013 (c) Inception Plugin Team.
+# License: CC BY-SA 3.0
+#      Inception by Inception Plugin Team is licensed under a
+#      Creative Commons Attribution-ShareAlike 3.0 Unported
+#      License.
+# 
+# Node                     Explanation
+# -------------------------------------------------------------------------------
+# General:                 Container for general options.
+#   PredictPosition:       Predict position of entities TaskWaitTime ticks ahead, so that Inception can run on high TaskWaitTime?
+#   TaskWaitTime:          How long should the task wait before reprocessing?
+General:
+  PredictPosition: true
+  TaskWaitTime: 5

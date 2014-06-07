@@ -1,0 +1,13 @@
+settings:
+  permissions: 
+    enable_command_permissions: true
+    enable_list_permissions: true
+    enable_sign_permissions: true
+  names:
+    enchanted_item_names: true
+#Putting your world on this list means that ALL chest turn into loot chests, doesnt matter if theres a sign under it or not. YOU HAVE BEEN WARNED!!!
+worlds:
+  Emeth:
+  Dormin:
+    dormin:
+      time: 25

@@ -1,0 +1,66 @@
+items:
+  ROTTEN_FLESH:
+    spawn:
+      chance: 100
+      stack: '4-10'
+  potion-1:
+    spawn:
+      chance: 100
+      stack: '3-20'
+    effects:
+      FIRE_RESISTANCE:
+        chance: 100
+        lvl: '1-2'
+        splash: false
+        extend: true
+  potion-2:
+    spawn:
+      chance: 70
+      stack: '1-10'
+    effects:
+      INSTANT_HEAL:
+        chance: 100
+        lvl: '1-2'
+        splash: false
+        extend: true
+      INVISIBILITY:
+        chance: 100
+        lvl: '1-2'
+        splash: false
+        extend: true
+      SPEED:
+        chance: 100
+        lvl: '1-2'
+        splash: false
+        extend: true
+  EMERALD-1:
+    spawn:
+      chance: 100
+      stack: '1-30'
+  EMERALD-2:
+    spawn:
+      chance: 100
+      stack: '1-30'
+  EMERALD-3:
+    spawn:
+      chance: 100
+      stack: '1-30'
+  EMERALD-4:
+    spawn:
+      chance: 100
+      stack: '1-30'
+  EMERALD-5:
+    spawn:
+      chance: 100
+      stack: '1-30'
+  written_book:
+    spawn:
+      chance: 10
+      stack: '1-1'
+    properties:
+      book:
+        title: 'Era of Darkness'
+        author: 'Fallen King'
+        pages:
+        - 'In the darkest days, there lived one soul within. His wrath twisted the land and brought destruction.'
+        - 'His destruction was eternal and all-knowing.'

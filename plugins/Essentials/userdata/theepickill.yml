@@ -1,0 +1,30 @@
+timestamps:
+  login: 1383268021452
+  logout: 1383268244153
+  lastteleport: 1379296375473
+ipAddress: 74.100.131.118
+logoutlocation:
+  world: Midgard
+  x: -1786.300000011921
+  y: 69.0
+  z: -772.000761309732
+  yaw: 340.77277
+  pitch: 8.393966
+money: '25.0'
+lastlocation:
+  world: Midgard
+  x: -41.051280933116004
+  y: 184.0
+  z: -108.9764194949772
+  yaw: 296.2602
+  pitch: 4.9356003
+nickname: meowmix
+afk: false
+homes:
+  home:
+    world: Midgard
+    x: -1787.8777603967465
+    y: 73.0
+    z: -765.4431794864848
+    yaw: 138.85464
+    pitch: 8.284744

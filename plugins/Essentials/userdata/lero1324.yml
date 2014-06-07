@@ -1,0 +1,29 @@
+timestamps:
+  login: 1380483322109
+  logout: 1380483771760
+  lastteleport: 1379304498772
+ipAddress: 173.217.36.133
+logoutlocation:
+  world: Midgard
+  x: -747.1543407562249
+  y: 112.0
+  z: -371.7789425971781
+  yaw: 116.09369
+  pitch: 26.999989
+homes:
+  home:
+    world: Midgard
+    x: -745.0552941693899
+    y: 112.0
+    z: -369.49498085141585
+    yaw: 267.7484
+    pitch: 12.149994
+lastlocation:
+  world: Midgard
+  x: -40.46909985561061
+  y: 194.5
+  z: -109.45059062698543
+  yaw: 17.388489
+  pitch: 25.499996
+money: '1.0'
+nickname: Hank

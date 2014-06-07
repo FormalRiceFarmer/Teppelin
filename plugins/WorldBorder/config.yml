@@ -1,0 +1,36 @@
+cfg-version: 7
+message: You feel disorientated by some ethereal force
+round-border: true
+debug-mode: false
+whoosh-effect: true
+portal-redirection: true
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+dynmap-border-enabled: true
+dynmap-border-message: The border of the world.
+remount-delay-ticks: 0
+worlds:
+  Dormin:
+    x: 0.0
+    z: 0.0
+    radiusX: 1000
+    radiusZ: 1000
+    wrapping: true
+  Emeth:
+    x: 0.0
+    z: 0.0
+    radiusX: 1000
+    radiusZ: 1000
+    wrapping: false
+  Dusk:
+    x: 0.0
+    z: 0.0
+    radiusX: 3250
+    radiusZ: 3250
+    wrapping: true
+  Midgard:
+    x: 0.0
+    z: 0.0
+    radiusX: 6500
+    radiusZ: 6500
+    wrapping: false

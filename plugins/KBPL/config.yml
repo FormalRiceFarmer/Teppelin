@@ -1,0 +1,11 @@
+# 
+# Name: KBPL																#
+# Author: Kmacho															#
+colors:
+  header: yellow
+  required: green
+  optional: aqua
+  misc: dark_green
+  special: white
+  default: gray
+  error: red

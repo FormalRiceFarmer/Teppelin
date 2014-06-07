@@ -1,0 +1,33 @@
+<event>
+  <action>
+    <entry if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="1" />
+    
+    <entry if_mob="skeleton" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="3" />
+    <entry if_mob="skeleton" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="6" />
+    
+    <entry if_mob="zombie" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="3" />
+    <entry if_mob="zombie" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="6" />
+    
+    <entry if_mob="spider" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="4" />
+    <entry if_mob="spider" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="8" />
+    
+    <entry if_mob="cavespider" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="5" />
+    <entry if_mob="cavespider" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="6" />
+    
+    <entry if_mob="creeper" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="5" />
+    <entry if_mob="creeper" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="10" />
+    
+    <entry if_mob="enderman" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="8" />
+    <entry if_mob="enderman" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="25" />
+    
+    <entry if_mob="pigzombie" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="8" />
+    <entry if_mob="pigzombie" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="16" />
+    
+    <entry if_mob="ghast" if_raining="no" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="12" />
+    <entry if_mob="ghast" if_raining="yes" if_killed_by_player="yes" action="give" sub="custom_drops" item="emerald" amount="24" />
+  </action>
+  <action>
+    <entry if_death_cause="ghast_fireball" action="cause" sub="explosion" size="5" />
+  </action>
+</event>
+<!-- see mobs.sylian.eu to learn how to edit this file -->

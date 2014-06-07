@@ -1,0 +1,9 @@
+items:
+  LAPIS_BLOCK-1:
+    spawn:
+      chance: 100
+      stack: '1-10'
+  LAPIS_BLOCK-2:
+    spawn:
+      chance: 100
+      stack: '1-10'

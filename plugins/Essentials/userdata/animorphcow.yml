@@ -1,0 +1,28 @@
+timestamps:
+  login: 1377811277455
+  lastteleport: 1377813376810
+  logout: 1377813421213
+ipAddress: 69.92.79.14
+lastlocation:
+  world: Midgard
+  x: 856.4909398489098
+  y: 88.0
+  z: -521.4417512111366
+  yaw: -214.35797
+  pitch: 3.299982
+logoutlocation:
+  world: Midgard
+  x: 907.5
+  y: 109.0
+  z: -533.5
+  yaw: -85.207886
+  pitch: 31.79999
+homes:
+  home:
+    world: Midgard
+    x: 907.3109365046685
+    y: 109.0
+    z: -533.1770401009946
+    yaw: -0.90799904
+    pitch: 21.600327
+money: '0.0'

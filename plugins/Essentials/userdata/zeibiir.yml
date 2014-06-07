@@ -1,0 +1,23 @@
+timestamps:
+  login: 1377557006138
+  logout: 1377472269789
+  kits:
+    tools: 1377557038604
+ipAddress: 24.242.117.128
+logoutlocation:
+  world: Midgard
+  x: 67.9172645330736
+  y: 130.0
+  z: -1353.4829926172424
+  yaw: -235.60431
+  pitch: 23.93683
+money: '0.0'
+lastlocation:
+  world: Midgard
+  x: -329.69999998807907
+  y: 64.0
+  z: -237.51112558541186
+  yaw: 117.44297
+  pitch: 34.500042
+afk: false
+nickname: Gary
