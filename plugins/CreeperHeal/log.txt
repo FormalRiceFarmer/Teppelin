@@ -287,3 +287,5 @@
 00:23:21 [INFO] Successfully hooked into Lockette
 14:10:39 [INFO] Successfully hooked into Lockette
 14:10:39 [INFO] Successfully hooked into Spout
+14:25:32 [INFO] Successfully hooked into Lockette
+14:25:32 [INFO] Successfully hooked into Spout
