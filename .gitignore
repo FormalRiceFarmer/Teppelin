@@ -1,6 +1,15 @@
 # First of all, make sure those pesky SVN folders don't end up on git
 .svn
 
+
+# ignore world folders and server properties
+
+server.properties
+
+world/
+world_the_end/
+plugins/dynmap/
+
 # Next, ignore all untracked files...
 #/*
 
