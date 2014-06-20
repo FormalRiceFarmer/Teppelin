@@ -1,13 +1,23 @@
 # First of all, make sure those pesky SVN folders don't end up on git
 .svn
 
+# ignore files used on this system only
 
-# ignore world folders and server properties
-
+server.log
+server.log.lck
 server.properties
+*.log
+
+plugins/Essentials/userdata/
+
+# ignore world folders
 
 world/
 world_the_end/
+
+
+
+# ignore massive generated folders
 plugins/dynmap/
 
 # Next, ignore all untracked files...

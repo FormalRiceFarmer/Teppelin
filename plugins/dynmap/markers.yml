@@ -75,8 +75,15 @@ sets:
         circles: {
             }
         hide: true
-        markers: {
-            }
+        markers:
+            Girouard:
+                icon: offlineuser
+                markup: false
+                label: Girouard
+                z: 220.0
+                world: world
+                y: 71.0
+                x: 3.0
         layerprio: 0
         areas: {
             }
