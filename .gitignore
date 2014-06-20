@@ -10,6 +10,7 @@ server.properties
 banned-ips.txt
 banned-players.txt
 *.log
+*log.txt
 
 plugins/Essentials/userdata/
 
