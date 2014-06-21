@@ -5,7 +5,7 @@
 
 server.log
 server.log.lck
-server.properties
+#server.properties
 
 banned-ips.txt
 banned-players.txt
@@ -27,7 +27,7 @@ Dummy/
 
 
 # ignore massive generated folders
-plugins/dynmap/
+plugins/dynmap/web/
 
 # Next, ignore all untracked files...
 #/*
