@@ -1,0 +1,107 @@
+# Authors: Xaymar
+# Copyright: 2012-2013 (c) Inception Plugin Team.
+# License: CC BY-SA 3.0
+#      Inception by Inception Plugin Team is licensed under a
+#      Creative Commons Attribution-ShareAlike 3.0 Unported
+#      License.
+# 
+# Title                    Address
+# -------------------------------------------------------------------------------
+# Entity Names:            http://jd.bukkit.org/apidocs/org/bukkit/entity/EntityType.html
+# Material Names:          http://jd.bukkit.org/apidocs/org/bukkit/Material.html
+# Regular Expressions:     http://www.regular-expressions.info/refflavors.html
+# 
+# Node                     Explanation
+# -------------------------------------------------------------------------------
+# World:                   
+#   Enabled:               Is this WorldHandler enabled?
+#   SynchronizeWith:       Should this world be time synchronized to another world?
+#   OverlapEvents:         Events on which Overlapping can react.
+#     BlockPlace:          Trigger when a block is placed.
+#     BlockBreak:          Trigger when a block is broken.
+#     BlockBurn:           Trigger when a block burns away.
+#     BlockFade:           Trigger when a block fades away.
+#     BlockForm:           Trigger when a block forms.
+#     BlockGrow:           Trigger when a block grows.
+#     BlockSpread:         Trigger when a block spreads.
+#     BlockFromTo:         Trigger when a block 'moves' (liquids, buggy).
+# Above:                   
+#   World:                 What world is above this one?
+#   Teleport:              
+#     Enabled:             Is teleporting enabled?
+#     From:                From what layer (and above) should we teleport players?
+#     To:                  To what layer (and above) should we teleport players?
+#     Safe:                Make the teleport upwards safe for players to breathe?
+#     Platform:            Make the teleport upwards safe for players to stand?
+#     EntityFilter:        A Regular Expression that matches all entities to be disallowed from teleporting. Matches by Class Name.
+#   Overlap:               
+#     Enabled:             Is overlapping enabled?
+#     From:                From what layer in the above world should we start from?
+#     To:                  To what layer should these get copied?
+#     Layers:              How many layers should get copied?
+#     SourceFilter:        A Regular Expression that matches all unplacable materials while Overlapping. Matches by ID.
+#     TargetFilter:        A Regular Expression that matches all unreplacable materials while Overlapping. Matches by ID.
+# Below:                   
+#   World:                 What world is below this one?
+#   Teleport:              
+#     Enabled:             Is teleporting enabled?
+#     From:                From what layer (and below) should we teleport players?
+#     To:                  To what layer (and below) should we teleport players?
+#     Safe:                Make the teleport downwards safe for players?
+#     PreventFalldamage:   Should Inception prevent falldamage for players?
+#     EntityFilter:        A Regular Expression that matches all entities to be disallowed from teleporting. Matches by Class Name.
+#   Overlap:               
+#     Enabled:             Is overlapping enabled?
+#     From:                From what layer in the above world should we start from?
+#     To:                  To what layer should these get copied?
+#     Layers:              How many layers should get copied?
+#     SourceFilter:        A Regular Expression that matches all unplacable materials while Overlapping. Matches by ID.
+#     TargetFilter:        A Regular Expression that matches all unreplacable materials while Overlapping. Matches by ID.
+
+World:
+  OverlapEvents:
+    BlockPlace: false
+    BlockBreak: false
+    BlockBurn: false
+    BlockFade: false
+    BlockForm: false
+    BlockGrow: false
+    BlockSpread: false
+    BlockFromTo: false
+    BlockPhysics: false
+    LeavesDecay: false
+    SignChange: false
+  Enabled: false
+  SynchronizeWith: ''
+Above:
+  Teleport:
+    Enabled: false
+    From: 247
+    To: 24
+    Safe: false
+    Platform: false
+    EntityFilter: (Painting|EnderDragon|Lightning|Weather|ComplexEntityPart)
+  Overlap:
+    Enabled: false
+    From: 255
+    To: 0
+    Layers: 32
+    SourceFilter: ''
+    TargetFilter: ''
+  World: ''
+Below:
+  Teleport:
+    Enabled: false
+    From: 8
+    To: 231
+    Safe: false
+    PreventFalldamage: false
+    EntityFilter: (Painting|EnderDragon|Lightning|Weather|ComplexEntityPart)
+  Overlap:
+    Enabled: false
+    From: 0
+    To: 255
+    Layers: 32
+    SourceFilter: ''
+    TargetFilter: ''
+  World: ''

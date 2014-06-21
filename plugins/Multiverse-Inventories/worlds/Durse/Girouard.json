@@ -1,1 +1,1 @@
-{"SURVIVAL":{"armorContents":{},"potions":"[]","inventoryContents":{"1":{"==":"org.bukkit.inventory.ItemStack","type":"COMPASS"},"0":{"==":"org.bukkit.inventory.ItemStack","type":"WOOD_AXE"}},"enderChestContents":{},"stats":{"ex":"2.0914311","ra":"300","hp":"13","fl":"16","txp":"0","el":"0","ma":"300","sa":"0.0","xp":"0.0","ft":"-20","fd":"0.0"}}}
+{"SURVIVAL":{"armorContents":{},"enderChestContents":{},"potions":"[]","inventoryContents":{},"stats":{"ra":"300","ex":"0.0","hp":"20","fl":"20","txp":"0","el":"0","sa":"5.0","ma":"300","xp":"0.0","ft":"0","fd":"0.0"}}}
